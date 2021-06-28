@@ -15,7 +15,8 @@ In this project, you'll apply what you've learned on data modeling with Postgres
 ### Schema_design 
  star schema has 1 fact table (songplays), and 4 dimension tables (users, songs, artists, time)
  
-[Blankdiagram](https://user-images.githubusercontent.com/73554040/123582595-c3103000-d7e6-11eb-82b4-9c65837394be.png)
+![Blankdiagram](https://user-images.githubusercontent.com/73554040/123582725-010d5400-d7e7-11eb-8fad-25d98db67b0b.png)
+
 
 
 
