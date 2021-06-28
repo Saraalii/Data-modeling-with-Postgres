@@ -17,7 +17,7 @@ In this project, you'll apply what you've learned on data modeling with Postgres
 Blankdiagram.png
 ![Schema_design](Images/![Blankdiagram](https://user-images.githubusercontent.com/73554040/123582595-c3103000-d7e6-11eb-82b4-9c65837394be.png)
 example.png)
-https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/Blankdiagram.png?_xsrf=2%7Cd6dc5ca7%7C2db87b53d8cc0b37e62487f27aca0064%7C1624476161
+
 
 
 - must run create_tables.py before start to create your database and tables. then sql_queries.py to CREATE/Drop statements in for each table.
